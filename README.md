@@ -18,30 +18,26 @@ A curated list of amazingly awesome resources for cloud computing.
 ## Where to Start?
 
 ## Platforms
-### Amazon Web Services
-
-### Google App Engine
+1. [Amazon Web Services](https://aws.amazon.com)
+2. [Google Cloud Platform](https://cloud.google.com/)
+3. [Heroku](https://www.heroku.com)
+4. [Digital Ocean](https://www.digitalocean.com)
 
 ## Cloud Computing Models
-
-### Software as a Service (SaaS)
-
-### Platform as a Service (PaaS)
-
-### Infrastructure as a Service (IaaS)
+1. Software as a Service (SaaS)
+2. Platform as a Service (PaaS)
+3. Infrastructure as a Service (IaaS)
+- [Detailed Articles](https://en.wikipedia.org/wiki/Cloud_computing#Service_models)
 
 ## Cloud Computing Deployment Types
-
-### Open Clouds
-
-### Hybrid Clouds
-
-### Private Clouds
-
+1. Open Clouds
+2. Hybrid Clouds
+3. Private Clouds
+- [Detailed Articles](https://en.wikipedia.org/wiki/Cloud_computing#Deployment_models)
 ## Tools
 
 ### Monitoring
-- [Riemann](http://riemann.io/) - Monitors distributed systems.
+1. [Riemann](http://riemann.io/) - Monitors distributed systems.
 
 ## Resources
 
@@ -50,9 +46,9 @@ A curated list of amazingly awesome resources for cloud computing.
 ## Key Concepts
 
 ### Consensus Protocols
-- [Paxos Made Live](http://static.googleusercontent.com/media/research.google.com/en//archive/paxos_made_live.pdf)
-- [ZooKeeper Consensus](http://diyhpl.us/~bryan/papers2/distributed/distributed-systems/zab.totally-ordered-broadcast-protocol.2008.pdf)
-- [Raft](https://ramcloud.atlassian.net/wiki/download/attachments/6586375/raft.pdf)
+1. [Paxos Made Live](http://static.googleusercontent.com/media/research.google.com/en//archive/paxos_made_live.pdf)
+2. [ZooKeeper Consensus](http://diyhpl.us/~bryan/papers2/distributed/distributed-systems/zab.totally-ordered-broadcast-protocol.2008.pdf)
+3. [Raft](https://ramcloud.atlassian.net/wiki/download/attachments/6586375/raft.pdf)
 
 ### Consistency
 
@@ -61,20 +57,22 @@ A curated list of amazingly awesome resources for cloud computing.
 ### Distributed Programming
 
 ## Distributed Systems in the Wild
-- [Bitcoin](https://bitcoin.org/bitcoin.pdf)
+1. [Bitcoin](https://bitcoin.org/bitcoin.pdf)
 
 ## Books
-- [Kubernetes: Up and Running](http://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1491935677)
-- [Docker: Up & Running](http://www.amazon.com/Docker-Up-Running-Karl-Matthias/dp/1491917571)
-- [Building Microservices](http://www.amazon.com/Building-Microservices-Sam-Newman/dp/1491950358)
+1. [Kubernetes: Up and Running](http://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1491935677)
+2. [Docker: Up & Running](http://www.amazon.com/Docker-Up-Running-Karl-Matthias/dp/1491917571)
+3. [Building Microservices](http://www.amazon.com/Building-Microservices-Sam-Newman/dp/1491950358)
 
 ## Presentations
 
 ## Conferences
-- [Container Camp](https://container.camp/)
-- [Kubecon](https://kubecon.io/)
-- [dotScale](http://2015.dotscale.io/)
+1. [Container Camp](https://container.camp/)
+2. [Kubecon](https://kubecon.io/)
+3. [dotScale](https://www.dotscale.io/)
+4. [docker](https://2018.dockercon.com/)
+
 
 ## Other Awesome Lists
-- [Awesome Docker](https://github.com/veggiemonk/awesome-docker)
-- [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+1. [Awesome Docker](https://github.com/veggiemonk/awesome-docker)
+2. [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
